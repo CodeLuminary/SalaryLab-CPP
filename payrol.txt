@@ -1,0 +1,13 @@
+The IT Department
+Bill 8 7 8 9 7 F1
+Bob 205103 0.08 F3
+Betty 8 8 7 8 8 F2
+Brandon 10 10 9 6 9 F2
+Brad 9 8 10 9 9 4 1 F4
+The Sales Department
+Kyle 88840 0.105 F3
+Tyler 105203 0.085 F3
+Konner 8 6 7 6 9 F2
+Sam 309011 0.045 F3
+Kent 9 8 9 9 9 0 0 F4
+EOF
